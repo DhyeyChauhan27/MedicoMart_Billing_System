@@ -1,4 +1,4 @@
-# MedicoMart
+# MedicoMart Billing System
 
 In this task we have create a software which manages the stock an
 sales the medicine and billing system also generate the bill for the
