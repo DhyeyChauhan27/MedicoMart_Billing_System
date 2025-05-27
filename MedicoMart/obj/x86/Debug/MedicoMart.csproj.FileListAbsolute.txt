@@ -1,0 +1,36 @@
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\MedicoMart.Form1.resources
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\MedicoMart.csproj.GenerateResource.Cache
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC Medical.exe
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC Medical.pdb
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\bin\Debug\ABC Medical.exe
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\bin\Debug\ABC Medical.pdb
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\MedicoMart.Frmlogin.resources
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\MedicoMart.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\ABC Medical.exe
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\ABC Medical.pdb
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\bin\Debug\ABC Medical.exe
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\bin\Debug\ABC Medical.pdb
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Form1.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Frmlogin.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.csproj.GenerateResource.Cache
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Frhome.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Report.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Stock.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Billing.resources
+C:\Users\Lenovo\OneDrive\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.FrmSearchBill.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\ABC Medical.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\ABC Medical.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\bin\Debug\ABC Medical.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\bin\Debug\ABC Medical.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Billing.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Frhome.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Frmlogin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.FrmSearchBill.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Report.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.Stock.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\MedicoMart\MedicoMart\obj\x86\Debug\MedicoMart.csproj.GenerateResource.Cache

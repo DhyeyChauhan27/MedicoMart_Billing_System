@@ -1,0 +1,9 @@
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\bin\Debug\ABC Medical.exe
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\bin\Debug\ABC Medical.pdb
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC_Medical.Form1.resources
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC_Medical.Frmlogin.resources
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC_Medical.Properties.Resources.resources
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC Medical.csproj.GenerateResource.Cache
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC Medical.exe
+c:\users\lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC Medical.pdb
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\ABC Medical\ABC Medical\obj\x86\Debug\ABC Medical.csprojResolveAssemblyReference.cache
